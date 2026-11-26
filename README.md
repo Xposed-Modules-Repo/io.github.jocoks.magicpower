@@ -36,6 +36,8 @@
 3. 强行停止一次系统管家，再打开 设置 → 电池。
 
 > 包名 `io.github.jocoks.magicpower`；从旧包名 `io.github.jocoks.lspbatterypower` 升级需要先卸载旧模块。
+>
+> 发布 APK 使用公用 debug 签名（CN=Android Debug），后续升级必须保持同一签名。
 
 ## 构建
 
