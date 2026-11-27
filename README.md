@@ -9,6 +9,13 @@
 
 > 这是基于系统 BatteryStats 估算值的二次换算，不是电流表实测。适合看趋势和横向比较，不适合当作精确功耗仪。
 
+## 截图
+
+| 首页 | 电池页功耗标注 | 发热自检 |
+|:---:|:---:|:---:|
+| <img src="screenshots/home.jpg" width="240"> | <img src="screenshots/battery.jpg" width="240"> | <img src="screenshots/thermal.jpg" width="240"> |
+| 打开即是功能入口 | 在耗电排行里标注前台/后台功耗 | 定位并停止异常进程 |
+
 ## 功能
 
 - **24 小时 / 过去 7 天 / 7 天里选单日 / 单小时** 四个视图都支持；
