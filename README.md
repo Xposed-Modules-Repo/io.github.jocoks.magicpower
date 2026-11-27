@@ -13,7 +13,7 @@
 
 | 首页 | 电池页功耗标注 | 发热自检 |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jpg" width="240"> | <img src="screenshots/battery.jpg" width="240"> | <img src="screenshots/thermal.jpg" width="240"> |
+| <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/io.github.jocoks.magicpower/main/screenshots/home.jpg" width="240"> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/io.github.jocoks.magicpower/main/screenshots/battery.jpg" width="240"> | <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/io.github.jocoks.magicpower/main/screenshots/thermal.jpg" width="240"> |
 | 打开即是功能入口 | 在耗电排行里标注前台/后台功耗 | 定位并停止异常进程 |
 
 ## 功能
